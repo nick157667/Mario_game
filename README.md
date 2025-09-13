@@ -11,3 +11,4 @@ Mario game
 ## 功能與原理說明
 
 ## 遊戲畫面
+<img width="1284" height="860" alt="image" src="https://github.com/user-attachments/assets/3ce3a37d-2135-4f47-82fe-98ef19f773da" />

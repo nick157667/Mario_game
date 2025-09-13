@@ -13,5 +13,6 @@ Mario game
 ## 遊戲畫面
 ### Start scene
 <img width="1284" height="860" alt="image" src="https://github.com/user-attachments/assets/3ce3a37d-2135-4f47-82fe-98ef19f773da" />
+
 ### Game scene
 <img width="1283" height="857" alt="image" src="https://github.com/user-attachments/assets/ba0c7ed6-f759-49e2-92ae-62e3919fa393" />

@@ -15,4 +15,5 @@ Mario game
 <img width="1284" height="860" alt="image" src="https://github.com/user-attachments/assets/3ce3a37d-2135-4f47-82fe-98ef19f773da" />
 
 ### Game scene
+<img width="1283" height="856" alt="image" src="https://github.com/user-attachments/assets/964038ed-b3a3-44b2-8531-7fd4aa84598f" />
 <img width="1283" height="857" alt="image" src="https://github.com/user-attachments/assets/ba0c7ed6-f759-49e2-92ae-62e3919fa393" />
